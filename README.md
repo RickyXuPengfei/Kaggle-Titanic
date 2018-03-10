@@ -1,7 +1,7 @@
 
 Kaggle-Titanic
 ==============
-![] (images/logo.png)
+![](images/logo.png)
 
 Description
 -----------
@@ -19,7 +19,7 @@ Dependencies
 
 FlowChart
 ---------
-![] (images/FlowChart.png)
+![](images/FlowChart.png)
 
 Project Files
 -------------
